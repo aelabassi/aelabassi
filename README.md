@@ -1,5 +1,6 @@
 # 💫About Me :
-I'm a Physics researcher and Software developer: I'm passionate about building software and learning new technologies: Web applications, and AI/ML applications and ML research.
+I'm a Physics researcher and Software developer: I'm passionate (and curious) about building software and learning new technologies. I build full stack web applications using Nextjs and top UI libraries such tailwind and shadcn/ui, coding CLIs and games using Rust and C++ (still learning), and exploring Machine Learning and AI with Python, and I use PyTorch for deep learning.
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/el-abassi-abderrazaq) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aelabassi97) 
