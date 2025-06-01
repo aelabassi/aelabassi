@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm a Physics researcher and Software developer: I'm passionate (and curious) about building software and learning new technologies. I build full stack web applications using Nextjs and top UI libraries such tailwind and shadcn/ui, coding CLIs and games using Rust and C++ (still learning), and exploring Machine Learning and AI with Python, and I use PyTorch for deep learning.
+I'm a Physics researcher and Software developer: I'm passionate (and curious) about building software and learning new technologies.
 
 
 ## 🌐Socials
