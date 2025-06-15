@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm Abderrazaq, I'm a physicist, I love coding. I enrolled on alx africa software engineering,I graudated this February.
+I'm Abderrazaq, I'm a physicist, I love coding. I enrolled on alx africa software engineering,I graduated this February.
 
 
 
